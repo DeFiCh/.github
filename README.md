@@ -1,2 +1,3 @@
-# organisation
-Defining this GitHub organisation as code, internal non-CI connected. Never make this public.
+# @DeFiCh/.github
+
+> Community health files for the @DeFiCh organization
